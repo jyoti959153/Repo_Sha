@@ -71,12 +71,5 @@
 			<version>5.0.9</version>
 		</dependency>
 
-
-		<dependency>
-			<groupId>Vtiger</groupId>
-			<artifactId>456</artifactId>
-			<version>0.0.1-SNAPSHOT</version>
-		</dependency>
-
 	</dependencies>
 </project>
